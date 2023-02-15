@@ -58,7 +58,7 @@ I do have a third project, however I am sort of wanning interest in it at the mo
         <img src="./assets/images/git.svg" alt="git" width="60">
     </td>
     <td align="center" width="190">
-        <img src="" alt="" width="60">
+        <img src="./assets/images/mysql.svg" alt="mysql" width="60">
     </td>
     <td align="center" width="190">
         <img src="" alt="" width="60">
