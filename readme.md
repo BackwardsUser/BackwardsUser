@@ -18,9 +18,11 @@ I do have a third project, however I am sort of wanning interest in it at the mo
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0PlE5BpxH_A_g0q5XqrrNw?color=%23ff0000&style=flat-square)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Backwards_User__?color=%23ff4500&style=flat-square)
 
-## Skills
-| a |   |   |   |
-|---|---|---|---|
-|   | b |   |   |
-|   |   | c |   |
-|   |   |   | d |
+## Languages and Tools
+<table width="100">
+<tr>
+    <td align="center" width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+</tr>
+</table>
