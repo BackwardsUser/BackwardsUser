@@ -22,16 +22,17 @@ I do have a third project, however I am sort of wanning interest in it at the mo
 <table width="100">
 <tr>
     <td align="center" width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="./assets/images/javascript.svg" alt="JS">
     </td>
     <td align="center" width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" width="60">
+        <img src="./assets/images/node-js.svg" alt="NJS" width="60">
     </td>
     <td align="center" width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" width="60">
+        <img src="./assets/images/html.svg" alt="HTML" width="60">
     </td>
     <td align="center" width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" width="60">
+        <img src="./assets/images/css.svg" alt="CSS" width="60">
     </td> 
 </tr>
+<tr>
 </table>
