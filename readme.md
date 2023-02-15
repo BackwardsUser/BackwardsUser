@@ -1,7 +1,7 @@
 # Hello, I'm Alexander Harding.
 ### I'm a 🇨🇦 Canadian College Student studying Software Development!
 
-I am studying Software Development at Mohawk College
+I am studying Software Development at Mohawk College.
 
 I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and its super cool to visually see the bot coming online.
 
@@ -65,4 +65,3 @@ I do have a third project, however I am sort of wanning interest in it at the mo
     </td>
 </tr>
 </table>
-
