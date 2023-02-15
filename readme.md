@@ -30,5 +30,8 @@ I do have a third project, however I am sort of wanning interest in it at the mo
     <td align="center" width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.svg" width="60">
     </td>
+    <td align="center" width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.svg" width="60">
+    </td> 
 </tr>
 </table>
