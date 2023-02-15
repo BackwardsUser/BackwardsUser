@@ -1,11 +1,11 @@
 # Hello, I'm Alexander Harding.
-### I'm a 🇨🇦 Canadian College Student studying Software Development!
+### I'm a Canadian 🇨🇦 College Student studying Software Development!
 
 I am studying Software Development at Mohawk College.
 
-I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and its super cool to visually see the bot coming online.
+I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and it's super cool to visually see the bot coming online.
 
-My favourite project I am working on is likely my Chat Room, Its been a great learning experience, understanding the way the client works with a database via a server and understanding basic concepts of encryption.
+My favourite project I am working on is my Chat Room, Its been a great learning experience, understanding the way the client works with a database via a server and understanding basic concepts of encryption.
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser)](https://github.com/BackwardsUser)
 
@@ -13,7 +13,7 @@ I have two major projects at the moment:
 1. [My Chat Room](https://github.com/BackwardsUser/Basic-Chat-Room) - This is a project I've been working for quite some time, I have no intention of becoming the next Discord, however it's been a pretty good learning experience.
 2. [My Discord Music Bot](https://github.com/BackwardsUser/RadioBot) - I am creating a *free* and public discord bot that anyone can run locally, due to discord cracking down on music bots a lot harder now, I was hoping to solve that.
 
-I do have a third project, however I am sort of wanning interest in it at the moment. My Bot Manager, or Dot; I created Dot because I realized that if you were a Discord Server owner, you were forced to trust in Bot Developers, public bots, YouTube tutorials or actual coding abilities. This application was made so you could make a bot with no thought on how it worked. However I've put a hold on the bot realizing that the concept would be super difficult to bring to life as I am unsure how to implement this idea. If you have any ideas, feel free to make an issue on its repository, [Here](https://github.com/BackwardsUser/Dot-Bot-Manager/issues).
+I do have a third project, however I am sort of waning interest in it at the moment. My Bot Manager, or Dot; I created Dot because I realized that if you were a Discord Server owner, you were forced to trust in Bot Developers, public bots, YouTube tutorials or actual coding abilities. This application was made so you could make a bot with no thought on how it worked. However I've put a hold on the bot realizing that the concept would be super difficult to bring to life as I am unsure how to implement this idea. If you have any ideas, feel free to make an issue on its repository, [Here](https://github.com/BackwardsUser/Dot-Bot-Manager/issues).
 
 ## Where to find me
 ![Discord](https://img.shields.io/discord/1037779805376098356?color=%235865F2&style=flat-square)
