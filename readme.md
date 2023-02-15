@@ -1,5 +1,5 @@
 # Hello, I'm Alexander Harding.
-### I'm a 🇨🇦 Canadian College Student studying Software Development!
+### I'm a Canadian 🇨🇦 College Student studying Software Development!
 
 I am studying Software Development at Mohawk College
 
