@@ -22,7 +22,7 @@ I do have a third project, however I am sort of wanning interest in it at the mo
 <table width="100">
 <tr>
     <td align="center" width="190">
-        <img src="./assets/images/javascript.svg" alt="JS">
+        <img src="./assets/images/javascript.svg" alt="JS" width="60">
     </td>
     <td align="center" width="190">
         <img src="./assets/images/node-js.svg" alt="NJS" width="60">
@@ -35,4 +35,31 @@ I do have a third project, however I am sort of wanning interest in it at the mo
     </td> 
 </tr>
 <tr>
+    <td>
+        <img src="./assets/images/electron.svg" alt="electron" width="60">
+    </td>
+    <td>
+        <img src="./assets/images/java.svg" alt="Java" width="60">
+    </td>
+    <td>
+        <img src="./assets/images/lua.svg" alt="lua" width="60">
+    </td>
+    <td>
+        <img src="./assets/images/python.svg" alt="PY" width="60">
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="./assets/images/typescript.svg" alt="TS" width="60">
+    </td>
+    <td>
+        <img src="" alt="" width="60">
+    </td>
+    <td>
+        <img src="" alt="" width="60">
+    </td>
+    <td>
+        <img src="" alt="" width="60">
+    </td>
+</tr>
 </table>
