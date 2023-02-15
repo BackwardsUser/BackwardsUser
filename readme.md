@@ -3,7 +3,7 @@
 
 I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and its super cool to visually see the bot coming online.
 
-My favourite project I am working on is my likely my Chat Room, sure its basic and is likely never going to take off, seeing as there are so many Chat applications on the market (Teams, Discord, Slack..) but its still cool to try and get working.
+My favourite project I am working on is likely my Chat Room, Its been a great learning experience, understanding the way the client works with a database via a server and understanding basic concepts of encryption.
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser)](https://github.com/BackwardsUser)
 
