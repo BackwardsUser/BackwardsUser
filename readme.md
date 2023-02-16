@@ -5,7 +5,7 @@
 
 ### I'm a 🇨🇦 Canadian College Student studying Software Development!
 
-I am studying Software Development at Mohawk College
+I am studying Software Development at Mohawk College.
 
 I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and it's super cool to visually see the bot coming online.
 
