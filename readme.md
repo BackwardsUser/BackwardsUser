@@ -5,7 +5,7 @@
 
 ### I'm a 🇨🇦 Canadian College Student studying Software Development!
 
-I am studying Software Development at Mohawk College
+I am studying Software Development at Mohawk College.
 
 I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and it's super cool to visually see the bot coming online.
 
@@ -67,7 +67,6 @@ I do have a third project, however I am sort of waning interest in it at the mom
     </td>
 </tr>
 </table>
-
 &nbsp;<div align="center">
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)
 </div>
