@@ -67,10 +67,10 @@ I do have a third project, however I am sort of waning interest in it at the mom
     </td>
 </tr>
 </table>
+&nbsp;
 
-&nbsp;<div align="center">
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)
-</div>
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackwardsUser&layout=compact&theme=transparent&title_color=dddddd)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <br/>
 <br/>
