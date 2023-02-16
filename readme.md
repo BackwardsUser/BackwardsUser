@@ -1,13 +1,15 @@
 # Hello, I'm Alexander Harding.
-### I'm a Canadian 🇨🇦 College Student studying Software Development!
+
+[![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow&style=flat-square)](https://github.com/BackwardsUser)
+![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser?style=flat-square)
+
+### I'm a 🇨🇦 Canadian College Student studying Software Development!
 
 I am studying Software Development at Mohawk College
 
 I love coding, My favourite thing to code are Discord Bots, they're super simple to get running and it's super cool to visually see the bot coming online.
 
 My favourite project I am working on is my Chat Room, Its been a great learning experience, understanding the way the client works with a database via a server and understanding basic concepts of encryption.
-
-[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser)](https://github.com/BackwardsUser)
 
 I have two major projects at the moment:
 1. [My Chat Room](https://github.com/BackwardsUser/Basic-Chat-Room) - This is a project I've been working for quite some time, I have no intention of becoming the next Discord, however it's been a pretty good learning experience.
@@ -66,3 +68,14 @@ I do have a third project, however I am sort of waning interest in it at the mom
 </tr>
 </table>
 
+&nbsp;<div align="center">
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)
+</div>
+<br/>
+<br/>
+<br/>
+
+## Here's what I'm listening to:
+&nbsp;<div align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&cover_image=true&theme=default&show_offline=false&background_color=2d2d2dff&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&redirect=true)
+</div>
