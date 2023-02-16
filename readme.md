@@ -1,7 +1,7 @@
 # Hello, I'm Alexander Harding.
 
-[![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow&style=flat-square)](https://github.com/BackwardsUser)
-![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser?style=flat-square)
+[![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow)](https://github.com/BackwardsUser)
+![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser)
 
 ### I'm a 🇨🇦 Canadian College Student studying Software Development!
 
