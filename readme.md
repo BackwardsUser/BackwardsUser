@@ -69,9 +69,11 @@ I believe that almost every project on the internet should be open source. I bel
     </td>
 </tr>
 </table>  
-[![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api&theme=dark?username=BackwardsUser)](https://github.com/anuraghazra/github-readme-stats)  
+
+## Other Stuff
+
+| [![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackwardsUser&layout=pie&theme=radical&hide=mcfunction,batchfile)](https://github.com/anuraghazra/github-readme-stats) |  
+| ------------- | ------------- |
   
-## Here's what I'm listening to:  
-&nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&cover_image=true&theme=default&show_offline=false&background_color=2d2d2dff&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&redirect=true)
-</div>
+**What I'm listening to:**  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=960ef1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&redirect=true)
