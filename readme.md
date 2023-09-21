@@ -1,9 +1,9 @@
-# Hello, I'm Alexander Harding.
+# Hello, I'm Alexander Harding.  
 
 [![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow)](https://github.com/BackwardsUser)
 ![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser)
 
-### I'm a 🇨🇦 Canadian College Student studying Software Development!
+### I'm a 🇨🇦 Canadian College Student studying Software Development!  
 
 I am studying Software Development at Mohawk College.
 
@@ -19,12 +19,12 @@ I do have a third project, however I am sort of waning interest in it at the mom
 
 I believe that almost every project on the internet should be open source. I believe that open source can provide so much good, and with the way its integrated with GitHub is perfect. The best way to learn and develop cool things is to let everyone give their input, you may not understand some parts of the framework you're using and the best thing that you can do is let the public either, teach you, or do it for you. ***However*** I do understand that there are some reasons that its not in the best interest of some that their work is open source, for example banks and other high security systems shouldn't be open source as it could cause a security risk to many. That is why I believe *almost* every project should be open source, also allowing devices operating systems to be open source could allow the public to burn bloatware off of some heavier operating systems like Windows 11, and the same can be done with applications and even frameworks.
 
-## Where to find me
+## Where to find me  
 [![Discord](https://img.shields.io/discord/1037779805376098356?color=%235865F2&style=flat-square)](https://discord.gg/9X6hEAupG6)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0PlE5BpxH_A_g0q5XqrrNw?color=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC0PlE5BpxH_A_g0q5XqrrNw?sub_confirmation=1)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Backwards_User__?color=%23ff4500&style=flat-square)](https://www.reddit.com/user/Backwards_User__)  
 
-## Languages and Tools
+## Languages and Tools  
 <table width="100">
 <tr>
     <td align="center" width="190">
@@ -70,9 +70,9 @@ I believe that almost every project on the internet should be open source. I bel
 </tr>
 </table>  
 
-![Alexander's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BackwardsUser&layout=compact&theme=transparent&title_color=dddddd)](https://github.com/anuraghazra/github-readme-stats)  
+![Alexander's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BackwardsUser&show_icons=true&count_private=true&theme=transparent&title_color=dddddd&text_color=888888&icon_color=555555)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BackwardsUser&layout=compact&theme=transparent&title_color=dddddd)](https://github.com/anuraghazra/github-readme-stats)    
   
-## Here's what I'm listening to:
+## Here's what I'm listening to:  
 &nbsp;<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&cover_image=true&theme=default&show_offline=false&background_color=2d2d2dff&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&redirect=true)
 </div>
