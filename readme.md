@@ -69,7 +69,7 @@ I believe that almost every project on the internet should be open source. I bel
     </td>
 </tr>
 </table>  
-[![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser)](https://github.com/anuraghazra/github-readme-stats)  
+[![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api&theme=dark?username=BackwardsUser)](https://github.com/anuraghazra/github-readme-stats)  
   
 ## Here's what I'm listening to:  
 &nbsp;<div align="center">
