@@ -13,7 +13,7 @@ function information() {
         },
         education: [ "Mohawk College" ], // Still attending!
         interests: [ "Gaming", "Coding", "Music" ], // Very Basic.
-        goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ] // Bleh.
+        goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ], // Bleh.
         active_os: "Windows Tiny 11" // Tiny 11 is a tool that removes the "fat" from Windows 11 - https://github.com/ntdevlabs/tiny11builder 
     }
 
