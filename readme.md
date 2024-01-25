@@ -24,7 +24,7 @@ function information() {
 Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [GitHub](https://github.com/BackwardsUser/BackwardsUser/issues/), [Discord](https://discord.gg/BbCqbuU8Qx), [Email](mailto:Alexander@backwardsdevelopment.ca).
 (If any links don't work, or you just want to chat, open an issue [here](https://github.com/BackwardsUser/BackwardsUser/issues/))
 
-[![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow)](https://github.com/BackwardsUser)
+[![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow&style=flat)](https://github.com/BackwardsUser)
 [![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser)](https://github.com/BackwardsUser/BackwardsUser/LICENSE/)
 [![Discord](https://img.shields.io/discord/1037779805376098356)](https://discord.gg/BbCqbuU8Qx)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0PlE5BpxH_A_g0q5XqrrNw?color=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC0PlE5BpxH_A_g0q5XqrrNw?sub_confirmation=1)
