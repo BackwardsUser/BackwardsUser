@@ -14,11 +14,7 @@ function information() {
         education: [ "Mohawk College" ], // Still attending!
         interests: [ "Gaming", "Coding", "Music" ], // Very Basic.
         goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ] // Bleh.
-        OS: {
-            Preferred: "Arch Linux", // Of course.
-            Active: "Windows 11", // Rainbow Six Siege, Please come to Linux!
-            Unfavoured: "MacOS" // Not a fan...
-        }
+        active_os: "Windows Tiny 11" // Tiny 11 is a tool that removes the "fat" from Windows 11 - https://github.com/ntdevlabs/tiny11builder 
     }
 
     return BackwardsUser; // Where is this going?
