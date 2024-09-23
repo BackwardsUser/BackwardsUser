@@ -81,6 +81,3 @@ Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [Git
 
 | [![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackwardsUser&layout=pie&theme=radical&hide=mcfunction,batchfile)](https://github.com/anuraghazra/github-readme-stats) |  
 | ------------- | ------------- |
-  
-**What I'm listening to:**  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=960ef1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=nxloawbwu9bvwag3boa8kqw35&redirect=true)
