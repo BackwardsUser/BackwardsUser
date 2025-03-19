@@ -29,7 +29,6 @@ Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [Git
 [![Discord](https://img.shields.io/discord/1037779805376098356)](https://discord.gg/BbCqbuU8Qx)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0PlE5BpxH_A_g0q5XqrrNw?color=%23ff0000&style=flat)](https://www.youtube.com/channel/UC0PlE5BpxH_A_g0q5XqrrNw?sub_confirmation=1)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fbackwardsdevelopment.ca%2F)](https://backwardsdevelopment.ca/)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Backwards_User__?color=%23ff4500&style=flat)](https://www.reddit.com/user/Backwards_User__)  
 
 ## Languages and Tools  
 <table width="100">
