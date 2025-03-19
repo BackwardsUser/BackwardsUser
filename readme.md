@@ -6,15 +6,15 @@ function information() {
         name: "Alexander Harding", // I thought your name was Backwards!
         origin: "Canada", // Eh?
         birth: {
-            unix: 1086624000, // Really? Unix?
+            unix_timestamp: 1086624000, // Timestamp-ed
             year: 2004, // Gen-Z *Shivers*
-            month: June, // Hot
+            month: June, // Hot! I'm gonna boil to death 😟
             day: 7, // An Odd Number? Shame.
         },
-        education: [ "Mohawk College" ], // Still attending!
-        interests: [ "Gaming", "Coding", "Music" ], // Very Basic.
-        goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ], // Bleh.
-        active_oses: [ "Windows Tiny 11", "Ubuntu" ]// Tiny 11 is a tool that removes the "fat" from Windows 11 - https://github.com/ntdevlabs/tiny11builder 
+        education: [ "Mohawk College" ], // 🏫 Still attending!
+        interests: [ "Coding", "Gaming", "Music" ], // Very Basic.
+        goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ], // 🙂
+        active_oses: [ "Windows 11", "Ubuntu" ] // Beep Boop Beep 🤖
     }
 
     return BackwardsUser; // Where is this going?
