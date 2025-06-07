@@ -54,7 +54,7 @@ Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [Git
         <img src="./assets/images/css.svg" alt="CSS" width="60">
     </td>
     <td align="center" width="190">
-        <img src="./assets/images/lua.svg" alt="lua" width="60">
+        <img src="./assets/images/cs.svg" alt="C#" width="60">
     </td>
     <td align="center" width="190">
         <img src="./assets/images/python.svg" alt="PY" width="60">
@@ -62,7 +62,7 @@ Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [Git
 </tr>
 <tr>
     <td align="center" width="190">
-        <img src="./assets/images/java.svg" alt="Java" width="60">
+        <img src="./assets/images/lua.svg" alt="lua" width="60">
     </td>
     <td align="center" width="190">
         <img src="./assets/images/git.svg" alt="git" width="60">
