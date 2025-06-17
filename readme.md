@@ -21,7 +21,7 @@ function information() {
 }
 ```
 
-Contact me at any time! [Website](https://backwardsdevelopment.ca/contact), [GitHub](https://github.com/BackwardsUser/BackwardsUser/issues/), [Discord](https://discord.gg/BbCqbuU8Qx), [Email](mailto:Alexander@backwardsdevelopment.ca).
+Contact me at any time! [Website](https://backwards.dev/), [GitHub](https://github.com/BackwardsUser/BackwardsUser/issues/), [Discord](https://discord.gg/BbCqbuU8Qx), [Email](mailto:Alexander@backwards.dev).
 (If any links don't work, or you just want to chat, open an issue [here](https://github.com/BackwardsUser/BackwardsUser/issues/))
 
 [![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow&style=flat)](https://github.com/BackwardsUser)
