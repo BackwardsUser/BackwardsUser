@@ -1,23 +1,25 @@
 # 👋 Hey, I'm BackwardsUser. 👋  
 
 ``` javascript
-function information() {
-    const BackwardsUser = {
-        name: "Alexander Harding", // I thought your name was Backwards!
-        origin: "Canada", // Eh?
-        birth: {
-            unix_timestamp: 1086624000, // Timestamp-ed
-            year: 2004, // Gen-Z *Shivers*
-            month: June, // Hot! I'm gonna boil to death 😟
-            day: 7, // An Odd Number? Shame.
-        },
-        education: [ "Mohawk College" ], // 🏫 Still attending!
-        interests: [ "Coding", "Gaming", "Music" ], // Very Basic.
-        goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ], // 🙂
-        active_oses: [ "Windows 11", "Ubuntu" ] // Beep Boop Beep 🤖
-    }
-
-    return BackwardsUser; // Where is this going?
+export const BackwardsUser = {
+    name: "Alexander Harding",
+    origin: "Canada",
+    birth: {
+        unix_timestamp: 1086624000,
+        year: 2004,
+        month: June,
+        day: 7,
+    },
+    education: {
+        college: {
+            name: "Mohawk College",
+            program: "Software Development"
+            completed: true
+        }
+    },
+    interests: [ "Coding", "Gaming", "Music" ],
+    goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ],
+    active_oses: [ "Windows 11", "EndeavourOS" ]
 }
 ```
 
