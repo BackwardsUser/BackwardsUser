@@ -11,11 +11,13 @@ export const BackwardsUser = {
         day: 7,
     },
     education: {
-        college: {
-            name: "Mohawk College",
-            program: "Software Development"
-            completed: true
-        }
+        [
+            {
+                name: "Mohawk College",
+                program: "Software Development"
+                completed: true
+            }
+        ]
     },
     interests: [ "Coding", "Gaming", "Music" ],
     goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ],
@@ -77,8 +79,3 @@ Contact me at any time! [Website](https://backwards.dev/), [GitHub](https://gith
     </td>
 </tr>
 </table>  
-
-## Other Stuff
-
-| [![Backwards' GitHub stats](https://github-readme-stats.vercel.app/api?username=BackwardsUser&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackwardsUser&layout=pie&theme=radical&hide=mcfunction,batchfile)](https://github.com/anuraghazra/github-readme-stats) |  
-| ------------- | ------------- |
