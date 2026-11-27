@@ -31,5 +31,4 @@ Contact me at any time! [Website](https://backwards.dev/), [GitHub](https://gith
 [![Github](https://img.shields.io/github/followers/BackwardsUser?label=Follow&style=flat)](https://github.com/BackwardsUser)
 [![GitHub](https://img.shields.io/github/license/BackwardsUser/BackwardsUser)](https://github.com/BackwardsUser/BackwardsUser/LICENSE/)
 [![Discord](https://img.shields.io/discord/1037779805376098356)](https://discord.gg/BbCqbuU8Qx)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0PlE5BpxH_A_g0q5XqrrNw?color=%23ff0000&style=flat)](https://www.youtube.com/channel/UC0PlE5BpxH_A_g0q5XqrrNw?sub_confirmation=1)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.backwards.dev%2F)](https://backwards.dev/)
