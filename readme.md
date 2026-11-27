@@ -21,7 +21,7 @@ export const BackwardsUser = {
     },
     interests: [ "Coding", "Gaming", "Music" ],
     goals: [ "Develop Something Cool", "Help towards something useful", "Live a Happy Life", "Family" ],
-    active_oses: [ "Windows 11", "EndeavourOS" ]
+    active_oses: [ "Arch Linux" ]
 }
 ```
 
